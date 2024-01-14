@@ -1,2 +1,3 @@
-# Needleman-Wunsch-algorithm-in-python
-Reproduction of the Needleman-Wunsch algorithm using Python
+Needleman-Wunsch algorithm in python
+---
+Воспроизведение алгоритма выравнивания последовательностей Нидлмана-Вунша с дополнительным использованием библиотеки BioPython. На вход подаются две последовательности и для работы алгоритма задаются значения наград за совпадения и штрафов за пропуски/несовпадения.
